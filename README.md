@@ -1,2 +1,2 @@
-# Reading List
-A Chrome extension for saving pages to read later.
+# Notetaker
+A Chrome extension for taking notes while browsing the internet.
