@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Notetaker",
+  "description": "Write notes with ease and style",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "https://ajax.googleapis.com/",
+    "storage"
+  ]
+}
